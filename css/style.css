@@ -1,0 +1,36 @@
+.navbar {
+position: absolute;
+width: 130px;
+height: 30px;
+left: 450px;
+top: 75px;
+font-family: LEMON MILK;
+font-style: normal;
+font-size: 27px;
+line-height: 28px;
+color:black;
+}
+
+body{
+    background-color: black;
+}
+
+a {
+    color: #fbfcfdfa;
+    text-decoration: none;
+    background-color: transparent;
+    text-align: right;
+}
+
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: white;
+    border: white;
+    border-radius: .25rem;
+}
+
+a:hover {
+    color:yellow;
+       }
