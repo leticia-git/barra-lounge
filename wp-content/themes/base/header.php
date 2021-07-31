@@ -24,7 +24,7 @@
 
 <body class="body">
 	<header class="header">
-<section class="section-um" style="">
+<section class="section-um" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); align-items: top-center;">
 	<div class="container">
 		<div class="row">
 		  <div class="menu">
