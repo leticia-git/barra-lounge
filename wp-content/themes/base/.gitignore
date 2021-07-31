@@ -1,0 +1,15 @@
+.sass-cache/
+*.css.map
+*.rar
+*.zip
+*.pdf
+*.iso
+*.bak
+assets/scss/sass-cache/
+assets/node_modules/
+*.log
+*.zip
+license.txt
+readme.html
+sitemap.xml
+sitemap.xml.gz
