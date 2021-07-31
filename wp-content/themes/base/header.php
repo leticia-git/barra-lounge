@@ -22,7 +22,37 @@
 	<?php wp_head(); ?>
 </head>
 
-<body class="">
-	<header class="">
-
+<body class="body">
+	<header class="header">
+<section class="section-um" style="">
+	<div class="container">
+		<div class="row">
+		  <div class="menu">
+			  <div class="logo">
+				  <img src="/assets/dist/images/logo.png" alt="Logo">
+			  </div>
+			  <div class="texto-menu">
+				  <div class="home">
+					  <p>HOME</p>
+				  </div>
+				  <div class="acasa">
+					  A CASA
+				  </div>
+				  <div class="reservas">
+					  RESERVAS
+				  </div>
+				  <div class="localizacao">
+					 LOCALIZAÇÃO
+				  </div>
+			  </div>
+		  </div>
+		  <div class="texto-header">
+			  <h1>
+			  <span class="span">vivencie <span class="amarelo">três ambientes</span></span> 
+			  <span class="span">em um único lugar</span> 
+			  </h1>
+		  </div>
+		</div>
+	</div>
+</section>
 	</header>
