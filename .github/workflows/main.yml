@@ -11,7 +11,7 @@ name: 🚀 FTP Deploy
 jobs:
   FTP-Deploy-Action:
     name: 🎉 FTP-Deploy-Action
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.1.0
