@@ -24,6 +24,5 @@
 
 <body class="">
 	<header class="">
-		<?php get_template_part('templates/logo'); ?>
-		<?php get_template_part('templates/menu'); ?>
+
 	</header>
