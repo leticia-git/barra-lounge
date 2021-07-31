@@ -20,6 +20,6 @@ jobs:
     - name: 📂 FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        ftp-server: ftp://185.28.21.159/https://barralounge.com.br//
+        ftp-server: ftp://185.28.21.159/barralounge.com.br/
         ftp-username: u202468932
         ftp-password: ${{ secrets.FTP_PASSWORD }}
