@@ -24,12 +24,12 @@
 
 <body class="body">
 	<header class="header">
-<section class="section-um" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); align-items: top-center;">
+<section class="section-um" style="background-image: url('<?php echo get_stylesheet_directory_uri();?>/assets/dist/images/bg.png'); align-items: top-center;">
 	<div class="container">
 		<div class="row">
 		  <div class="menu">
 			  <div class="logo">
-				  <img src="/assets/dist/images/logo.png" alt="Logo">
+				  <img src="<?php echo get_stylesheet_directory_uri();?>/assets/dist/images/logo.png" alt="Logo">
 			  </div>
 			  <div class="texto-menu">
 				  <div class="home">
