@@ -49,7 +49,18 @@
 							</div>
 						</div>
 					</div>
-					<div class="banner">
+					
+					<div class="texto-header">
+						<h1>
+							<span class="span">Vivencie</span>
+							<span class="amarelo">três ambientes</span>
+							<span class="span">em um único lugar</span>
+						</h1>
+					</div>
+
+				</div>
+			</div>
+			<div class="banner">
 						<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
 							<div class="carousel-indicators">
 								<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -76,16 +87,6 @@
 								<span class="visually-hidden">Next</span>
 							</button>
 						</div>
-					</div>
-					<div class="texto-header">
-						<h1>
-							<span class="span">Vivencie</span>
-							<span class="amarelo">três ambientes</span>
-							<span class="span">em um único lugar</span>
-						</h1>
-					</div>
-
-				</div>
-			</div>
+					</div>	
 		</section>
 	</header>
