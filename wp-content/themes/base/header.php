@@ -27,7 +27,7 @@
 
 <body class="body">
 	<header class="header">
-		<section class="section-um" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg1.png'); repeat: no-repeat; align-items: top-center;">
+		<section class="section-um">
 			<div class="container">
 				<div class="row">
 					<div class="menu">
@@ -49,15 +49,6 @@
 							</div>
 						</div>
 					</div>
-					
-					<div class="texto-header">
-						<h1>
-							<span class="span">Vivencie</span>
-							<span class="amarelo">três ambientes</span>
-							<span class="span">em um único lugar</span>
-						</h1>
-					</div>
-
 				</div>
 			</div>
 			<div class="banner">
@@ -88,5 +79,15 @@
 							</button>
 						</div>
 					</div>	
+					<div class="container">
+					<div class="texto-header">
+						<h1>
+							<span class="span">Vivencie</span>
+							<span class="amarelo">três ambientes</span>
+							<span class="span">em um único lugar</span>
+						</h1>
+					</div>
+					</div>
 		</section>
+
 	</header>
