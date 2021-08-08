@@ -27,7 +27,7 @@
 
 <body class="body">
 	<header class="header">
-		<section class="section-um">
+		<section class="section-um" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg1.png'); repeat: no-repeat; align-items: top-center;">
 			<div class="container">
 				<div class="row">
 					<div class="menu">
@@ -49,9 +49,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
-			<div class="banner">
+					<div class="banner">
 						<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
 							<div class="carousel-indicators">
 								<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -78,8 +76,7 @@
 								<span class="visually-hidden">Next</span>
 							</button>
 						</div>
-					</div>	
-					<div class="container">
+					</div>
 					<div class="texto-header">
 						<h1>
 							<span class="span">Vivencie</span>
@@ -87,7 +84,8 @@
 							<span class="span">em um único lugar</span>
 						</h1>
 					</div>
-					</div>
-		</section>
 
+				</div>
+			</div>
+		</section>
 	</header>
