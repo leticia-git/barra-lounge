@@ -4,6 +4,8 @@
     <div class="section-dois">
         <div class="container">
             <div class="row">
+                <h2 class="titulo-casa">A casa</h2>
+                <hr>
             <div class="banner">
 						<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
 							<div class="carousel-indicators">
