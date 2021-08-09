@@ -60,15 +60,19 @@
 					<div class="icones">
 						<div class="bar">
 							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bar.png" alt="Bar">
+							<p>Bar</p>
 						</div>
 						<div class="restaurante">
 							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/restaurante.png" alt="Restaurante">
+							<p>Restaurante</p>
 						</div>
 						<div class="adega">
 							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/adega.png" alt="Adega">
+							<p>Adega</p>
 						</div>
 						<div class="balada">
 							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/balada.png" alt="Balada">
+							<p>Balada</p>
 						</div>
 					</div>
 				</div>
