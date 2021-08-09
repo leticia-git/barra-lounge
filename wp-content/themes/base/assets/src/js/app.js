@@ -1,6 +1,5 @@
 import $ from 'jquery';
 import 'slick-carousel';
-// import 'jquery.nicescroll';
 import 'jquery-mask-plugin';
 import 'jquery-parallax.js';
 import * as AOS from 'aos/dist/aos.js';
@@ -10,9 +9,6 @@ AOS.init({
 });
 
 $(function () {
-    if (screen.width > 991) {
-        $("body").niceScroll();
-    }
     $('.date').mask('00/00/0000');
     $('.time').mask('00:00:00');
     $('.date_time').mask('00/00/0000 00:00:00');
