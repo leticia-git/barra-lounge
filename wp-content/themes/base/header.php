@@ -50,7 +50,6 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6">
 					<div class="texto-header">
 						<h1>
 							<span class="span">Vivencie</span>
@@ -58,15 +57,11 @@
 							<span class="span">em um único lugar</span>
 						</h1>
 					</div>
-					</div>
-					<div class="col-sm-6">
 					<div class="reserva-cta">
         			  <button class="botao-reserva">
          				  Faça sua reserva
          			 </button>
         			</div>
-					</div>
-					
 					<div class="icones">
 						<div class="bar">
 							<a href=""><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bar.png" alt="Bar"></a>
