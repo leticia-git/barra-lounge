@@ -1,6 +1,6 @@
 import $ from 'jquery';
 import 'slick-carousel';
-import 'jquery.nicescroll';
+// import 'jquery.nicescroll';
 import 'jquery-mask-plugin';
 import 'jquery-parallax.js';
 import * as AOS from 'aos/dist/aos.js';
