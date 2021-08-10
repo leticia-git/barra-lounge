@@ -4,7 +4,7 @@
     <div class="section-dois">
         <div class="container">
             <div class="row">
-                <h2 class="titulo-casa">A casa</h2>
+                <h2 class="titulo-casa">A CASA</h2>
                 <hr class="hr">
             <div class="banner">
 						<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
