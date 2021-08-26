@@ -26,7 +26,7 @@
 	<?php wp_head(); ?>
 </head>
 
-<body class="body">
+<body class="body" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); background-repeat: no-repeat;width: 100%; background-position: top center;background-size: cover;">>
 	<header class="header">
 		<section class="section-um" >
 			<div class="container">
@@ -52,8 +52,8 @@
 					</div>
 					<div class="texto-header">
 						<h1>
-							<span class="span">Vivencie</span>
-							<span class="amarelo">três ambientes</span>
+							<span class="span">Vivencie<span class="amarelo"> três</span></span>
+							<span class="amarelo"> ambientes</span>
 							<span class="span">em um único lugar</span>
 						</h1>
 					</div>
