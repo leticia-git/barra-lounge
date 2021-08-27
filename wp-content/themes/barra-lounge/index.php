@@ -5,14 +5,13 @@
   		<div class="container">
   			<div class="row">
   				<h2 class="titulo-casa">A CASA</h2>
+				  <hr class="hr">
 				  <div class="subtexto-casa">
 					<span class="texto">Barra Lounge, nasce com a proposta de oferecer ao </span>
   					<span class="texto">público <span class="amarelo"> 3 ambientes atrativos</span> em um único lugar, </span>
   					<span class="texto">inspirado no futebol a casa conta com uma super </span>
   					<span class="texto">estrutura lembrando a temática.</span>
 				  </div>
-
-  				<hr class="hr">
 				  <div class="banner">
 					  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   					<div class="carousel-indicators">
