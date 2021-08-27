@@ -54,7 +54,6 @@
 <span>proporcionado muita diversão, música </span> 
 <span>e entretenimento para você!</span> 
 </div>
-
 </div>
         </div>
     </div>
