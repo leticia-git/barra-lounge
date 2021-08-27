@@ -5,6 +5,13 @@
   		<div class="container">
   			<div class="row">
   				<h2 class="titulo-casa">A CASA</h2>
+				  <div class="subtexto-casa">
+					<span class="texto">Barra Lounge, nasce com a proposta de oferecer ao </span>
+  					<span class="texto">público <span class="amarelo"> 3 ambientes atrativos</span> em um único lugar, </span>
+  					<span class="texto">inspirado no futebol a casa conta com uma super </span>
+  					<span class="texto">estrutura lembrando a temática.</span>
+				  </div>
+
   				<hr class="hr">
 				  <div class="banner">
 					  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -34,14 +41,11 @@
   					</button>		
 					  </div>
 					  
-  					<div class="texto-casa">
-  						<span class="texto">Barra Lounge, nasce com a proposta de oferecer ao </span>
-  						<span class="texto">público <span class="amarelo">3 ambientes atrativos</span> em um único lugar, </span>
-  						<span class="texto">inspirado no futebol a casa conta com uma super </span>
-  						<span class="texto">estrutura lembrando a temática.</span>
+  					<!-- <div class="texto-casa">
 
-  						<span class="texto">Seus espaços são divididos por <span class="amarelo"> Piso Central,</span> </span>
-  						<span class="texto"><span class="amarelo">Mezanino</span> e nosso incrível<span class="amarelo"> Rooftop,</span> todos contam </span>
+
+  						<span class="texto">Seus espaços são divididos por <span class="amarelo"> Piso Central, 	</span> </span>
+  						<span class="texto"><span class="amarelo"> Mezanino</span> e nosso incrível <span class="amarelo">Rooftop,</span> todos contam </span>
   						<span class="texto">com espaços reservados, mesas e bistrô.</span>
 
   						<span class="texto">O trabalho de nosso time te faz desfrutar de um</span>
@@ -49,7 +53,7 @@
   						<span class="texto">drinks de alta qualidade, tabacaria, </span>
   						<span class="texto">proporcionado muita diversão, música </span>
   						<span class="texto">e entretenimento para você!</span>
-  					</div>
+  					</div> -->
 
 			</div>
 			  </div>
