@@ -6,7 +6,8 @@
             <div class="row">
                 <h2 class="titulo-casa">A CASA</h2>
                 <hr class="hr">
-            <div class="banner">
+<div class="col-sm-6">
+<div class="banner">
 						<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
 							<div class="carousel-indicators">
 								<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -35,6 +36,26 @@
 						</div>
 					</div>
             </div>
+</div>
+<div class="col-sm-6">
+<div class="texto-casa">
+<span>Barra Lounge, nasce com a proposta de oferecer ao </span> 
+<span>público <span class="amarelo">3 ambientes atrativos</span> em um único lugar, </span> 
+<span>inspirado no futebol a casa conta com uma super </span> 
+<span>estrutura lembrando a temática.</span> 
+
+<span>Seus espaços são divididos por <span class="amarelo"> Piso Central,</span> </span> 
+<span><span class="amarelo">Mezanino</span>  e nosso incrível<span class="amarelo"> Rooftop,</span> todos contam </span> 
+<span>com espaços reservados, mesas e bistrô.</span>  
+
+<span>O trabalho de nosso time te faz desfrutar de um</span>  
+<span>excelente atendimento,  gastronomia típica brasileira, </span> 
+<span>drinks de alta qualidade, tabacaria, </span> 
+<span>proporcionado muita diversão, música </span> 
+<span>e entretenimento para você!</span> 
+</div>
+
+</div>
         </div>
     </div>
 
