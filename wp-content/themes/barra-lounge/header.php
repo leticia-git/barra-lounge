@@ -26,7 +26,7 @@
 	<?php wp_head(); ?>
 </head>
 
-<body class="body" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); background-repeat: no-repeat;width: 100%; background-position: top center;background-size: cover;">>
+<body class="body" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); background-repeat: no-repeat;width: 100%; background-position: top center;background-size: cover;">
 	<header class="header">
 		<section class="section-um" >
 			<div class="container">
