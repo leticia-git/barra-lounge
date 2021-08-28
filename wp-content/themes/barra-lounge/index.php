@@ -77,7 +77,9 @@
   		<div class="container">
   			<div class="row">
   				<div class="col-sm-6">
-  					<h2>Reserva</h2>
+					  <div class="titulo">
+					  <h2>Reserva</h2>
+					  </div>
   					<hr>
   					<div class="form">
   						<p>Faça sua reserva</p>
