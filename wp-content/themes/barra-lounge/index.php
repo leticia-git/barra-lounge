@@ -49,22 +49,22 @@
   						<div class="parafrago-um">
   							<p>
   								Barra Lounge, nasce com a proposta de oferecer ao
-  								público 3 ambientes atrativos em um único lugar, inspirado
+  								público <strong>3 ambientes</strong> atrativos em um único lugar, inspirado
   								no futebol a casa conta com uma super estrutura lembrando a temática.
   							</p>
   						</div>
   						<div class="paragrafo-dois">
   							<p>
-  								Seus espaços são divididos por Piso Central,
-  								Mezanino e nosso incrível Rooftop, todos contam
-  								com espaços reservados, mesas e bistrô.
+  								Seus espaços são divididos por <strong>Piso Central</strong>, 
+  							<strong>Mezanino</strong> e nosso incrível <strong>Rooftop</strong>, todos contam
+  								com <strong>espaços reservados</strong>, mesas e <strong>bistrô.</strong>
   							</p>
   						</div>
   						<div class="paragrafo-tres">
   							<p>
   								O trabalho de nosso time te faz desfrutar de um excelente atendimento,
-  								gastronomia típica brasileira, drinks de alta qualidade, tabacaria,
-  								proporcionado muita diversão, música e entretenimento para você!
+  							 <strong>gastronomia</strong> típica brasileira, <strong>drinks</strong>de alta qualidade, <strong>tabacaria</strong>,
+  								proporcionado muita diversão,<strong>música</strong> e entretenimento para você!
   							</p>
   						</div>
   					</div>
