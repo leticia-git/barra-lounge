@@ -31,3 +31,100 @@ hr {
     color: #fff;
     text-align: center;
 }
+
+// formulario
+
+.formulario-form {
+    background-color: transparent;
+    padding: 0px !important;
+    margin: 40px 0px;
+    color: #000;
+ }
+ 
+ .form-campos {
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 420px;
+ }
+ 
+ 
+ 
+ .mensagem {
+    padding: 10px 10px 80px 10px;
+ }
+ .jsFormTel {
+    color: #0000;
+ }
+ 
+ .enviar {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-align-content: flex-end;
+    -ms-flex-line-pack: end;
+    align-content: flex-end;
+    -webkit-align-items: flex-end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+ }
+ 
+ .form {
+    width: 420px;
+ }
+ 
+ .botao {
+    padding: 10px 15px;
+    border-radius: 5px;
+       transition: 0.3s ease-in-out;
+        &:hover,
+        &:active,
+        &:focus {
+            background: darken(#f8ba13, 20);
+        }
+ }
+ 
+ .botao {
+   margin-top: 15px;
+   background-color: #f8ba13;
+ }
+ 
+ .form-campos {
+    transition: 0.3s ease-in-out;
+        &:hover,
+        &:active,
+        &:focus {
+            background: darken(#fff, 25);
+        }
+ }
+ 
+ .form > p {
+    font-size: 34px;
+    color: #f8ba13;
+    margin-top: 25px;
+ }
+ .tel .form-campos {
+    color: #000;
+ }
+ 
+ .wpcf7-response-output {
+    color: #fff;
+ }
+ .form{
+    max-width: 100%;
+ }
+ 
+ .form-campos{
+ max-width: 100%;
+ }
+
+//  formulario

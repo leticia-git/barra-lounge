@@ -3,10 +3,10 @@
   	<section class="dois">
   		<div class="container">
   			<div class="row">
-				  <div class="titulo">
-					  <h1>A Casa</h1>
-				  </div>
-				  <hr>
+  				<div class="titulo">
+  					<h1>A Casa</h1>
+  				</div>
+  				<hr>
   				<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   					<div class="carousel-indicators">
   						<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -72,5 +72,51 @@
   			</div>
   		</div>
   	</section>
+
+  	<section class="quatro">
+  		<div class="container">
+  			<div class="row">
+  				<div class="col-sm-6">
+  					<h2>Reserva</h2>
+  					<hr>
+  					<div class="form">
+  						<p>Faça sua reserva</p>
+  						<div class="formulario-form">
+  							<?php echo do_shortcode('[contact-form-7 id="5" title="Contato"]'); ?>
+  						</div>
+  					</div>
+  				</div>
+  				<div class="col-sm-6">
+  					<div class="contato">
+  						<div class="logo">
+  							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logonome.png" alt="">
+  						</div>
+  						<div class="telefone">
+  							<a href="">11 96049-2085</a>
+  						</div>
+  						<div class="email">
+  							<a href="">comercial@barralounge.com.br</a>
+  						</div>
+  					</div>
+  				</div>
+  			</div>
+  		</div>
+  	</section>
+	  <section class="cinco">
+<div class="container">
+	<div class="row">
+		<h2>
+		Localização
+		</h2>
+		<hr>
+		<div class="mapa">
+
+		</div>
+		<div class="endereco">
+
+		</div>
+	</div>
+</div>
+	  </section>
   </main>
   <?php get_footer(); ?>
