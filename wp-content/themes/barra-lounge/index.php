@@ -7,7 +7,6 @@
 					  <h1>A Casa</h1>
 				  </div>
 				  <hr>
-				  
   				<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   					<div class="carousel-indicators">
   						<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -73,6 +72,5 @@
   			</div>
   		</div>
   	</section>
-
   </main>
   <?php get_footer(); ?>
