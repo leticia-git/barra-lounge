@@ -55,15 +55,15 @@
   						</div>
   						<div class="paragrafo-dois">
   							<p>
-  								Seus espaços são divididos por <strong>Piso Central</strong>, 
-  							<strong>Mezanino</strong> e nosso incrível <strong>Rooftop</strong>, todos contam
-  								com <strong>espaços reservados</strong>, mesas e <strong>bistrô.</strong>
+  								Seus espaços são divididos por <strong>Piso Central,</strong>
+  							<strong>Mezanino</strong> e nosso incrível <strong>Rooftop,</strong> todos contam
+  								com <strong>espaços reservados,</strong> mesas e <strong>bistrô.</strong>
   							</p>
   						</div>
   						<div class="paragrafo-tres">
   							<p>
   								O trabalho de nosso time te faz desfrutar de um excelente atendimento,
-  							 <strong>gastronomia</strong> típica brasileira, <strong>drinks</strong>de alta qualidade, <strong>tabacaria</strong>,
+  							 <strong>gastronomia</strong> típica brasileira, <strong>drinks </strong>de alta qualidade, <strong>tabacaria,</strong>
   								proporcionado muita diversão,<strong>música</strong> e entretenimento para você!
   							</p>
   						</div>
