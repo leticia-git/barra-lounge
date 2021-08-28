@@ -4,6 +4,7 @@
     "private": true,
     "dependencies": {
         "@babel/polyfill": "^7.11.5",
+        "@fortawesome/fontawesome-free": "^5.15.4",
         "animate.css": "^4.1.1",
         "aos": "^2.3.4",
         "hamburgers": "^1.1.3",
