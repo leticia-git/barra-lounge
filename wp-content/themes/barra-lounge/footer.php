@@ -26,15 +26,15 @@
            <p>Siga a Adega</p> 
             </div>
             <div class="wpp-adega">
-            <a href="http://api.whatsapp.com/send?1=pt_BR&phone=" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" style="position:fixed;bottom:20px;right:30px; z-index: 1;"></i>
+            <a href="http://api.whatsapp.com/send?1=pt_BR&phone=" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" ></i>
             <a href="">11 96049-2085</a>  
             </div>
             <div class="insta-adega">
-            <a href=""><i class="fab fa-instagram" style="position:fixed;bottom:20px;right:30px; z-index: 1;"></i></a>
+            <a href=""><i class="fab fa-instagram" ></i></a>
             <a href="">/AdegaBarraLounge</a>
             </div>
             <div class="face-adega">
-            <a href=""><i class="fab fa-facebook" style="position:fixed;bottom:20px;right:30px; z-index: 1;"></i></a>
+            <a href=""><i class="fab fa-facebook" ></i></a>
             <a href="">/AdegaBarraLounge</a>
             </div>
         </div>
