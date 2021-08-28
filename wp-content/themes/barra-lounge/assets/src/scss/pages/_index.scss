@@ -128,3 +128,117 @@ hr {
  }
 
 //  formulario
+.titulo h1 {
+    font-size: 40px;
+    color: #fff;
+}
+.dois hr {
+    width: 300px;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+.carousel img{
+    height: 500px;
+    margin-bottom: 50px;
+}
+.carousel{
+    margin-bottom: 100px;
+}
+.img-casa img {
+    width:350px;
+    margin-left: 100px;
+}
+.texto-casa{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 50px;
+    strong{
+        color:#E8EC14;
+    }
+}
+.parafrago-um p {
+    margin-bottom: 20px;
+}
+.paragrafo-dois p {
+        margin-bottom: 20px;
+}
+.titulo h2 {
+    font-size: 40px;
+    color: #fff;
+}
+.col-sm-6 hr {
+    width: 300px;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+.quatro{
+    margin-top: 200px;
+}
+.contato .logo {
+        display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-align-content: stretch;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.telefone a {
+    font-size: 24px;
+    color: #fff;
+}
+.email a {
+     font-size: 24px;
+    color: #fff; 
+}
+
+.form {
+    margin-left: 100px;
+}
+
+.form {
+    margin-top: 100px;
+}
+.cinco h2 {
+        font-size: 40px;
+    color: #fff;
+    margin-top: 100px;
+}
+.cinco hr {
+    width: 300px;
+    border: 1px solid #fff;
+    background-color: #fff; 
+    
+}
+.cinco h2 {
+    margin-bottom: 10px;
+}
+
+.jsFormNome {
+    font-size: 14px;
+}
+.jsFormEmail {
+    font-size: 14px;
+}
+.dg-tel {
+    font-size: 14px;
+}
+.jsFormMensagem {
+    font-size: 14px;
+}
+.botao {
+    font-size: 18px;
+}
