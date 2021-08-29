@@ -108,3 +108,34 @@
 .siga p {
     font-weight: 900;
 }
+
+.app-delivery p {
+    text-align: center;
+}
+
+.colunaum {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-content: stretch;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
+    -webkit-align-items: flex-end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+}
+.app-delivery p {
+    margin-bottom: 20px;
+}
+.footer{
+    padding-bottom: 50px;
+}

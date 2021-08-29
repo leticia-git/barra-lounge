@@ -65,6 +65,10 @@
 </div>
 </section>
 
+<div class="dg-wpp">
+	<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5531989796074" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" style="position:fixed;bottom:20px;right:30px; z-index: 1;"></i>
+	</a>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 <script src="https://kit.fontawesome.com/3ac7b59391.js" crossorigin="anonymous"></script>
