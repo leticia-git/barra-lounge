@@ -194,7 +194,7 @@
           }
           
           .header .menu-icon .navicon {
-            background: #333;
+            background: #fff;
             display: block;
             height: 2px;
             position: relative;
@@ -265,5 +265,7 @@
             .header .menu-icon {
               display: none;
             }
+            .navicon {
+                margin-top: 50px; 
+            }
           }
-      
