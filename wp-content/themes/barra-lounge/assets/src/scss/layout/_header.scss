@@ -99,6 +99,11 @@
 }
     
 
+
+    @media(max-width: 991px){
+     .navbar-brand img {
+        display: none;
+    }  
     .navbar-light .navbar-nav .nav-link{
         color: #fff;
         font-size: 20px;
@@ -115,11 +120,6 @@
     .navbar-toggler {
         background-color: yellow;
     }
-    @media(max-width: 991px){
-     .navbar-brand img {
-        display: none;
-    }  
-        
     }
 
  

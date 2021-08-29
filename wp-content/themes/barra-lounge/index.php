@@ -1,6 +1,6 @@
   <?php get_header(); ?>
   <main class="main">
-  	<section class="dois">
+  	<section class="dois" class="dois">
   		<div class="container">
   			<div class="row">
   				<div class="titulo">
@@ -36,7 +36,7 @@
   			</div>
   		</div>
   	</section>
-  	<section class="tres">
+  	<section class="tres" id="tres">
   		<div class="container">
   			<div class="row">
   				<div class="col-sm-6">
@@ -73,7 +73,7 @@
   		</div>
   	</section>
 
-  	<section class="quatro">
+  	<section class="quatro" id="quatro">
   		<div class="container">
   			<div class="row">
   				<div class="col-sm-6">
@@ -104,7 +104,7 @@
   			</div>
   		</div>
   	</section>
-	  <section class="cinco">
+	  <section class="cinco" id="cinco">
 <div class="container">
 	<div class="row">
 		<h2>
