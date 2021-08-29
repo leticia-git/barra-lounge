@@ -1,6 +1,6 @@
   <?php get_header(); ?>
   <main class="main">
-  	<section class="dois" class="dois">
+  	<section class="dois" id="dois">
   		<div class="container">
   			<div class="row">
   				<div class="titulo">
