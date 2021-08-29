@@ -32,25 +32,6 @@
 		<section class="section-um">
 			<div class="container">
 				<div class="row">
-					<!-- <div class="menu">
-						<div class="logo">
-							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo">
-						</div>
-						<div class="texto-menu">
-							<div class="home">
-								<a href="">HOME</a>
-							</div>
-							<div class="acasa">
-								<a href="">A CASA</a>
-							</div>
-							<div class="reservas">
-								<a href="">RESERVAS</a>
-							</div>
-							<div class="localizacao">
-								<a href="">LOCALIZAÇÃO</a>
-							</div>
-						</div>
-					</div> -->
 					<nav class="navbar navbar-expand-lg navbar-light">
 						<div class="container-fluid">
 							<a class="navbar-brand" href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo"></a>

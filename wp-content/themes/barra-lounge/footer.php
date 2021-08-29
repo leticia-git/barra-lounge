@@ -7,16 +7,16 @@
                <p>Acompanhe nossas redes</p> 
                 <div class="redes-casa">
                     <div class="wpp">
-                    <a href="http://api.whatsapp.com/send?1=pt_BR&phone=" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" ></i>
-                    <a href="">11 96049-2085</a> 
+                    <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511960492085" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" ></i>
+                    <a href="tel:+5511960492085">11 96049-2085</a> 
                     </div>
                     <div class="insta">
-                    <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href="">@BarraLounge</a>
+                    <a href="https://www.instagram.com/barraloungesp/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/barraloungesp/" target="_blank">@BarraLounge</a>
                     </div>
                     <div class="facebook">
-                    <a href=""><i class="fab fa-facebook" ></i></a>
-                    <a href="">@BarraLounge</a>
+                    <a  href="https://www.facebook.com/Barra-Lounge-SP-101735878616241 " target="_blank" ><i class="fab fa-facebook" ></i></a>
+                    <a href="https://www.facebook.com/Barra-Lounge-SP-101735878616241" target="_blank">@BarraLounge</a>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
 </section>
 
 <div class="dg-wpp">
-	<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5531989796074" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" style="position:fixed;bottom:20px;right:30px; z-index: 1;"></i>
+	<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5511960492085" target="_blank" class="dg-wpp"><i class="fab fa-whatsapp" style="position:fixed;bottom:20px;right:30px; z-index: 1;"></i>
 	</a>
 </div>
 

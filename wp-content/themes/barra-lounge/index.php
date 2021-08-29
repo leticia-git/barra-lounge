@@ -94,10 +94,10 @@
   							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logonome.png" alt="">
   						</div>
   						<div class="telefone">
-  							<a href="">11 96049-2085</a>
+  							<a href="tel:+5511960492085" target="_blank">11 96049-2085</a>
   						</div>
   						<div class="email">
-  							<a href="">comercial@barralounge.com.br</a>
+  							<a href="mailto:marketing@barralounge.com.br" target="_blank">marketing@barralounge.com.br</a>
   						</div>
   					</div>
   				</div>

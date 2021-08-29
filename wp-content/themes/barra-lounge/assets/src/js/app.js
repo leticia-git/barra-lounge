@@ -42,4 +42,8 @@ $(function () {
         }
       });
     $('.selectonfocus').mask("00/00/0000", {selectOnFocus: true});
+
+    $('.dg-mapa').click(function () {
+      $('.dg-mapa iframe').css("pointer-events", "auto");
+  });
 });
