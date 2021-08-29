@@ -29,7 +29,7 @@
 
 <body class="body" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); background-repeat: no-repeat;width: 100%; background-position: top center;background-size: cover;">
 	<header class="header">
-		<section class="section-um" >
+		<section class="section-um">
 			<div class="container">
 				<div class="row">
 					<!-- <div class="menu">
@@ -51,17 +51,22 @@
 							</div>
 						</div>
 					</div> -->
-					<div class="menu-responsivo">
-					<a href="" class="logo"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo"></a>
- 					
- 					 <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
- 					 <ul class="menu">
- 					<li class="home"><a href="#">HOME</a></li>
- 				   <li class="acasa"><a href="#">A CASA</a></li>
-   					 <li class="reservas"><a href="#">RESERVAS</a></li>
-   					 <li class="localizacao"><a href="#">LOCALIZAÇÃO</a></li>
- 					</ul>
-					</div>
+					<nav class="navbar navbar-expand-lg navbar-light bg-light">
+						<div class="container-fluid">
+							<a class="navbar-brand" href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo"></a>
+							<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+								<div class="navbar-nav">
+									<a class="nav-link home active" aria-current="page" href="#">HOME</a>
+									<a class="nav-link acasa" href="#">A CASA</a>
+									<a class="nav-link reservas" href="#">RESERVAS</a>
+									<a class="nav-link localizacao" href="#" >LOCALIZAÇÃO</a>
+								</div>
+							</div>
+						</div>
+					</nav>
 
 
 					<div class="texto-header">
@@ -72,10 +77,10 @@
 						</h1>
 					</div>
 					<div class="reserva-cta">
-        			  <button class="botao-reserva">
-         				  Faça sua reserva
-         			 </button>
-        			</div>
+						<button class="botao-reserva">
+							Faça sua reserva
+						</button>
+					</div>
 				</div>
 			</div>
 		</section>
