@@ -51,15 +51,18 @@
 							</div>
 						</div>
 					</div> -->
- 					 <a href="" class="logo">CSS Nav</a>
+					<div class="menu-responsivo">
+					<a href="" class="logo">CSS Nav</a>
  					 <input class="menu-btn" type="checkbox" id="menu-btn" />
  					 <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
  					 <ul class="menu">
- 					   <li class="home"><a href="#">HOME</a></li>
+ 					<li class="home"><a href="#">HOME</a></li>
  				   <li class="acasa"><a href="#">A CASA</a></li>
    					 <li class="reservas"><a href="#">RESERVAS</a></li>
    					 <li class="localizacao"><a href="#">LOCALIZAÇÃO</a></li>
- 						 </ul>
+ 					</ul>
+					</div>
+
 
 					<div class="texto-header">
 						<h1>
