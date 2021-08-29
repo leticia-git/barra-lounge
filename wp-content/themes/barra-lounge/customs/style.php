@@ -1,7 +1,7 @@
 <?php
 function theme_enqueue_style()
 {
-  $versionStyle = '0.1.3';
+  $versionStyle = '0.1.4';
   
   wp_enqueue_style('style', get_template_directory_uri() . '/assets/dist/style.min.css', array(), $versionStyle, 'all');
 }

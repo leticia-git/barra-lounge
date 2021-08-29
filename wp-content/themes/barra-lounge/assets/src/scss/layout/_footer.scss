@@ -139,3 +139,59 @@
 .footer{
     padding-bottom: 50px;
 }
+
+
+
+.wpp a{
+    transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #128c7e;
+      } 
+}
+.insta a {
+       transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #C13584;
+      }  
+}
+.facebook a{
+          transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #3b5998;
+      }  
+}
+.wpp-adega a {
+        transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #128c7e;
+      } 
+}
+.insta-adega a{
+           transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #C13584;
+      } 
+}
+.face-adega a {
+              transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #3b5998;
+      } 
+}
+
+.dg-wpp .dg-wpp .fa-whatsapp {
+    font-size: 50px;
+    color:  #138c1d;
+}

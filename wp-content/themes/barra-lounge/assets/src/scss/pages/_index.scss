@@ -282,3 +282,61 @@ hr {
 .email {
   text-align: center;  
 }
+
+.home a {
+    transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #E8EC14;
+      }
+}
+
+.acasa a {
+       transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #E8EC14;
+      } 
+}
+.reservas a {
+           transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #E8EC14;
+      } 
+}
+.localizacao a {
+           transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #E8EC14;
+      } 
+}
+.botao-reserva {
+               transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          background-color:darken(#E8EC14, 20)
+      } 
+}
+.telefone a {
+               transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #E8EC14;
+      } 
+}
+.email a {
+               transition: 0.3s ease-in-out;
+      &:hover,
+      &:active,
+      &:focus {
+          color: #E8EC14;
+      } 
+}
