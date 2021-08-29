@@ -60,9 +60,9 @@
 							<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 								<div class="navbar-nav">
 									<a class="nav-link home" href="#">HOME</a>
-									<a class="nav-link acasa" href="#">A CASA</a>
-									<a class="nav-link reservas" href="#">RESERVAS</a>
-									<a class="nav-link localizacao" href="#" >LOCALIZAÇÃO</a>
+									<a class="nav-link acasa" href="dois">A CASA</a>
+									<a class="nav-link reservas" href="quatro">RESERVAS</a>
+									<a class="nav-link localizacao" href="cinco" >LOCALIZAÇÃO</a>
 								</div>
 							</div>
 						</div>
