@@ -29,11 +29,11 @@
 
 <body class="body" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/bg.png'); background-repeat: no-repeat;width: 100%; background-position: top center;background-size: cover;">
 	<header class="header">
-		<section class="section-um" >
+		<section class="section-um">
 			<div class="container">
 				<div class="row">
 					<div class="menu">
-						<div class="logo">
+						<!-- <div class="logo">
 							<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo">
 						</div>
 						<div class="texto-menu">
@@ -50,20 +50,30 @@
 								<a href="">LOCALIZAÇÃO</a>
 							</div>
 						</div>
+					</div> -->
+						<a href="" class="logo"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo"></a>
+						<input class="menu-btn" type="checkbox" id="menu-btn" />
+						<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+						<ul class="menu">
+							<li class="home"><a href="#">HOME</a></li>
+							<li class="acasa"><a href="#">A CASA</a></li>
+							<li class="reservas"><a href="#">RESERVAS</a></li>
+							<li class="localizacao"><a href="#">LOCALIZAÇÃO</a></li>
+						</ul>
+
+						<div class="texto-header">
+							<h1>
+								<span class="span">Vivencie<span class="amarelo"> três</span></span>
+								<span class="amarelo"> ambientes</span>
+								<span class="span">em um único lugar</span>
+							</h1>
+						</div>
+						<div class="reserva-cta">
+							<button class="botao-reserva">
+								Faça sua reserva
+							</button>
+						</div>
 					</div>
-					<div class="texto-header">
-						<h1>
-							<span class="span">Vivencie<span class="amarelo"> três</span></span>
-							<span class="amarelo"> ambientes</span>
-							<span class="span">em um único lugar</span>
-						</h1>
-					</div>
-					<div class="reserva-cta">
-        			  <button class="botao-reserva">
-         				  Faça sua reserva
-         			 </button>
-        			</div>
 				</div>
-			</div>
 		</section>
 	</header>
