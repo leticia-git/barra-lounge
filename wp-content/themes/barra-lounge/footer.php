@@ -12,11 +12,11 @@
                     </div>
                     <div class="insta">
                     <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href="">/BarraLounge</a>
+                    <a href="">@BarraLounge</a>
                     </div>
                     <div class="facebook">
                     <a href=""><i class="fab fa-facebook" ></i></a>
-                    <a href="">/BarraLounge</a>
+                    <a href="">@BarraLounge</a>
                     </div>
                 </div>
             </div>
@@ -31,11 +31,11 @@
             </div>
             <div class="insta-adega">
             <a href=""><i class="fab fa-instagram" ></i></a>
-            <a href="">/AdegaBarraLounge</a>
+            <a href="">@AdegaBarraLounge</a>
             </div>
             <div class="face-adega">
             <a href=""><i class="fab fa-facebook" ></i></a>
-            <a href="">/AdegaBarraLounge</a>
+            <a href="">@AdegaBarraLounge</a>
             </div>
         </div>
         <div class="col-sm-4">
@@ -43,17 +43,21 @@
                 <p>
                     Peça já!
                 </p>
+                <div class="col-sm-6">
                 <div class="rappi">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/rappi.png" alt="">
                 </div>
                 <div class="ifood">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/ifood.png" alt="">
+                </div>    
                 </div>
+                <div class="col-sm-6">
                 <div class="ubereats">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/ubereats.png" alt="">
                 </div>
                 <div class="zedelivery">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/ze.png" alt="">
+                </div>   
                 </div>
             </div>
         </div>
