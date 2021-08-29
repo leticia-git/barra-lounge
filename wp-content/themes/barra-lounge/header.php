@@ -53,7 +53,7 @@
 					</div> -->
 					<div class="menu-responsivo">
 					<a href="" class="logo"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/logo.png" alt="Logo"></a>
- 					 <input class="menu-btn" type="checkbox" id="menu-btn" />
+ 					
  					 <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
  					 <ul class="menu">
  					<li class="home"><a href="#">HOME</a></li>
