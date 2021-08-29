@@ -344,3 +344,16 @@ hr {
 .wpcf7-response-output {
     font-size: 14px;
 }
+
+@media(max-width: 991px){
+    .img-casa img {
+        margin-left: 0px;
+        }
+     
+        .form{
+            margin-left: 0px;
+        }
+        .botao {
+            width: 100%;
+        }
+}
