@@ -43,7 +43,7 @@
                 <p>
                     Peça já!
                 </p>
-                <div class="col-sm-6">
+                <div class="col-sm-6 colunaum">
                 <div class="rappi">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/rappi.png" alt="">
                 </div>
@@ -51,7 +51,7 @@
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/ifood.png" alt="">
                 </div>    
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-6 colunadois">
                 <div class="ubereats">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/dist/images/ubereats.png" alt="">
                 </div>
