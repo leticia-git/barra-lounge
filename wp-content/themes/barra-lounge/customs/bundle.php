@@ -1,8 +1,8 @@
 <?php
 function theme_enqueue_script()
 {
-  $versionBundle = '0.1.2';
-  $versionStyleJs = '0.1.2';
+  $versionBundle = '0.1.3';
+  $versionStyleJs = '0.1.3';
 
   wp_deregister_script('jquery');
   wp_enqueue_script('bundle-js', get_template_directory_uri() . '/assets/dist/bundle.min.js', array(), $versionBundle, true);
